@@ -1,0 +1,18 @@
+# Raw data: download separately from Kaggle
+data/*.csv
+
+# Local backup retained during project reorganization
+notebooks/*.original.ipynb
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
